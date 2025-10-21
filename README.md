@@ -15,3 +15,6 @@ Tasks:
    * What message did GitHub Desktop give you?
    * Why do you think this happened?
    * What does this reveal about how Git handles remote permissions?
+
+Harper:
+I went to my dashboard and my repositories to verify that the changes I made were pushed to my repository, and not ballard-high-ap-cs.
