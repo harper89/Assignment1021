@@ -7,7 +7,7 @@ public class Main {
         System.out.println("What is your name??");
         String name = scanner.nextLine();
         
-        System.out.print("Your name is " + name + ":)");
+        System.out.print("Your name is " + name + " :)");
         
         scanner.close();
     }
